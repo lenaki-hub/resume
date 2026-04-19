@@ -4,7 +4,6 @@
 - **Email:** kicheeva.lena@yandex.ru
 - **Телефон:** +7 (913) 388-80-59
 - **GitHub:** [github.com/lenaki-hub](https://github.com/lenaki-hub)
-- **Telegram:** @ВашЛогин (если есть)
 
 ## Резюме
 - [Скачать PDF](./1С-Кичеева Елена Викторовна.pdf)

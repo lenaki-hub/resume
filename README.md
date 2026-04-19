@@ -6,7 +6,7 @@
 - **GitHub:** [github.com/lenaki-hub](https://github.com/lenaki-hub)
 
 ## Резюме
-- [Скачать PDF](./1С-Кичеева Елена Викторовна.pdf)
+[Скачать PDF](https://github.com/lenaki-hub/resume/1С-Кичеева Елена Викторовна.pdf)
 
 
 ## Дипломный проект
